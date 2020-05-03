@@ -1,0 +1,8 @@
+1. Als Micorcontroller hab ich (wie auch die anderen) den ESP8266 genommen.
+2. Als LEDs habe ich ein WS2815 LED-Band verwendet.
+3. Spannungsversorgung ist ein USB-Netzstecker (Mobile-Ladegerät) und ein USB Kabel, wobei nur L und N verwendet wird. Dieses USB Kabel speist dann den MC unnd Das LED-Band. Die LED-Steuerung wird mit dem GPIO5 verbunden.
+
+- Projekt geklaut auf 
+			https://github.com/Eisbaeeer/Ulrich-Radig_Wort_Uhr_Version_2
+- Code geklaut von 
+			https://github.com/marcow1601/Wordclock
